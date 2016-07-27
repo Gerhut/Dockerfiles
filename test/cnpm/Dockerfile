@@ -1,0 +1,3 @@
+FROM test
+
+EXPOSE 3000

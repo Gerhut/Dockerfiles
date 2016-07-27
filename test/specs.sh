@@ -1,6 +1,7 @@
 #!/bin/sh
 
 set -e
-cd test
+cd "$(dirname "$0")"
 
 ./nginx/spec.sh
+./cnpm/spec.sh

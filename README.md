@@ -7,3 +7,9 @@ nginx
 -----
 
 nginx:alpine with `nginx.conf` copied to conf.d/ in onbuild.
+
+
+cnpm
+----
+
+node:argon-onbuild with cnpm
